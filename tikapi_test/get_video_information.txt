@@ -1,0 +1,812 @@
+{
+    "$other": {
+        "videoLinkHeaders": {
+            "Cookie": "tt_chain_token=UwF/7L1a55daG3+piPhGsA==;",
+            "Origin": "https://www.tiktok.com",
+            "Referer": "https://www.tiktok.com/"
+        }
+    },
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "20240918224723E5986519426FA509E244",
+        "now": 1726699645000
+    },
+    "itemInfo": {
+        "itemStruct": {
+            "AIGCDescription": "",
+            "BAInfo": "",
+            "adAuthorization": false,
+            "adLabelVersion": 0,
+            "aigcLabelType": 0,
+            "author": {
+                "avatarLarger": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b958c583880f1f875e178405d5bf6eb8~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=57166&refresh_token=ec8af087773ef284aae39c55f87b3019&x-expires=1726869600&x-signature=9OrJAEikK9%2BO5qeCX6EDoN4U4kw%3D&shp=a5d48078&shcp=b59d6b55",
+                "avatarMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b958c583880f1f875e178405d5bf6eb8~c5_720x720.jpeg?lk3s=a5d48078&nonce=19966&refresh_token=53607df7df850a92522b74ce1f937b9f&x-expires=1726869600&x-signature=0auulZ3p4tTNZfCcowBOw%2BdFEfo%3D&shp=a5d48078&shcp=b59d6b55",
+                "avatarThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b958c583880f1f875e178405d5bf6eb8~c5_100x100.jpeg?lk3s=a5d48078&nonce=6674&refresh_token=ede4d942805294adbcd54bdeb06fe1b3&x-expires=1726869600&x-signature=5qm77JkXTBFEcmAxQiss%2BJ56HZ0%3D&shp=a5d48078&shcp=b59d6b55",
+                "commentSetting": 0,
+                "downloadSetting": 0,
+                "duetSetting": 0,
+                "ftc": false,
+                "id": "7296227568780756010",
+                "isADVirtual": false,
+                "isEmbedBanned": false,
+                "nickname": "bruschismichi",
+                "openFavorite": false,
+                "privateAccount": false,
+                "relation": 0,
+                "secUid": "MS4wLjABAAAAqeMxkJjZglOjfZ9VM0y5ZoGq_dgg3PYUBzXc10eASvNqvO27GUW59HEDG0bIif7n",
+                "secret": false,
+                "signature": "Los bruschimichis gobernaremos al mundo",
+                "stitchSetting": 0,
+                "ttSeller": false,
+                "uniqueId": "bruschismichi",
+                "verified": false
+            },
+            "authorStats": {
+                "diggCount": 39,
+                "followerCount": 731900,
+                "followingCount": 25,
+                "friendCount": 0,
+                "heart": 9400000,
+                "heartCount": 9400000,
+                "videoCount": 244
+            },
+            "challenges": [
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "153918",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 4600000,
+                        "viewCount": 0
+                    },
+                    "title": "gatos"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "1604348221986817",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 140500,
+                        "viewCount": 0
+                    },
+                    "title": "videovira"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "\u00a1Es hora de re\u00edrte como nunca! Los videos m\u00e1s divertidos est\u00e1n aqu\u00ed en TikTok. \ud83d\ude02\ud83d\ude02\ud83d\ude02",
+                    "id": "19336",
+                    "isCommerce": false,
+                    "profileLarger": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edfc0d6e4c77ae86a1ecca67ce47170d.jpeg?shp=b59d6b55&shcp=-",
+                    "profileMedium": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edfc0d6e4c77ae86a1ecca67ce47170d.jpeg?shp=b59d6b55&shcp=-",
+                    "profileThumb": "https://p16-amd-va.tiktokcdn.com/obj/musically-maliva-obj/edfc0d6e4c77ae86a1ecca67ce47170d.jpeg?shp=b59d6b55&shcp=-",
+                    "stats": {
+                        "videoCount": 107600000,
+                        "viewCount": 0
+                    },
+                    "title": "humor"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "233119",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 177600,
+                        "viewCount": 0
+                    },
+                    "title": "catvideos"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "837629",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 155000,
+                        "viewCount": 0
+                    },
+                    "title": "dogvideos"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "8466",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 992700,
+                        "viewCount": 0
+                    },
+                    "title": "drip"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "15675",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 4400000,
+                        "viewCount": 0
+                    },
+                    "title": "fit"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "229207",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": -1517048933,
+                        "viewCount": 0
+                    },
+                    "title": "fyp"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "42164",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 2000000000,
+                        "viewCount": 0
+                    },
+                    "title": "foryou"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "76389288",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 467300,
+                        "viewCount": 0
+                    },
+                    "title": "gatosgraciosos"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "71538786",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 5300000,
+                        "viewCount": 0
+                    },
+                    "title": "vira\u0142"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "55920072",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 22800,
+                        "viewCount": 0
+                    },
+                    "title": "gatosdivertidos"
+                },
+                {
+                    "coverLarger": "",
+                    "coverMedium": "",
+                    "coverThumb": "",
+                    "desc": "",
+                    "id": "1628974567345157",
+                    "isCommerce": false,
+                    "profileLarger": "",
+                    "profileMedium": "",
+                    "profileThumb": "",
+                    "stats": {
+                        "videoCount": 24700,
+                        "viewCount": 0
+                    },
+                    "title": "gatosfelices"
+                }
+            ],
+            "collected": false,
+            "contents": [
+                {
+                    "desc": "recopilaci\u00f3n de gatos graciosos bruschismichis\ud83e\udd23 #gatos #videovira #humor #catvideos #dogvideos #drip #fit #fyp #foryou #gatosgraciosos #vira\u0142#gatosdivertidos #gatosfelices ",
+                    "textExtra": [
+                        {
+                            "awemeId": "",
+                            "end": 55,
+                            "hashtagId": "153918",
+                            "hashtagName": "gatos",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 49,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 66,
+                            "hashtagId": "1604348221986817",
+                            "hashtagName": "videovira",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 56,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 73,
+                            "hashtagId": "19336",
+                            "hashtagName": "humor",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 67,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 84,
+                            "hashtagId": "233119",
+                            "hashtagName": "catvideos",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 74,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 95,
+                            "hashtagId": "837629",
+                            "hashtagName": "dogvideos",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 85,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 101,
+                            "hashtagId": "8466",
+                            "hashtagName": "drip",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 96,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 106,
+                            "hashtagId": "15675",
+                            "hashtagName": "fit",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 102,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 111,
+                            "hashtagId": "229207",
+                            "hashtagName": "fyp",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 107,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 119,
+                            "hashtagId": "42164",
+                            "hashtagName": "foryou",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 112,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 135,
+                            "hashtagId": "76389288",
+                            "hashtagName": "gatosgraciosos",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 120,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 142,
+                            "hashtagId": "71538786",
+                            "hashtagName": "vira\u0142",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 136,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 158,
+                            "hashtagId": "55920072",
+                            "hashtagName": "gatosdivertidos",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 142,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        },
+                        {
+                            "awemeId": "",
+                            "end": 172,
+                            "hashtagId": "1628974567345157",
+                            "hashtagName": "gatosfelices",
+                            "isCommerce": false,
+                            "secUid": "",
+                            "start": 159,
+                            "subType": 0,
+                            "type": 1,
+                            "userId": "",
+                            "userUniqueId": ""
+                        }
+                    ]
+                }
+            ],
+            "createTime": 1725063006,
+            "desc": "recopilaci\u00f3n de gatos graciosos bruschismichis\ud83e\udd23 #gatos #videovira #humor #catvideos #dogvideos #drip #fit #fyp #foryou #gatosgraciosos #vira\u0142#gatosdivertidos #gatosfelices ",
+            "digged": false,
+            "diversificationId": 10019,
+            "duetDisplay": 0,
+            "duetEnabled": true,
+            "duetInfo": {
+                "duetFromId": "0"
+            },
+            "forFriend": false,
+            "id": "7409089170519395626",
+            "isActivityItem": false,
+            "isAd": false,
+            "itemCommentStatus": 0,
+            "itemMute": false,
+            "music": {
+                "album": "",
+                "authorName": "bruschismichi",
+                "coverLarge": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b958c583880f1f875e178405d5bf6eb8~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=57166&refresh_token=ec8af087773ef284aae39c55f87b3019&x-expires=1726869600&x-signature=9OrJAEikK9%2BO5qeCX6EDoN4U4kw%3D&shp=a5d48078&shcp=b59d6b55",
+                "coverMedium": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b958c583880f1f875e178405d5bf6eb8~c5_720x720.jpeg?lk3s=a5d48078&nonce=19966&refresh_token=53607df7df850a92522b74ce1f937b9f&x-expires=1726869600&x-signature=0auulZ3p4tTNZfCcowBOw%2BdFEfo%3D&shp=a5d48078&shcp=b59d6b55",
+                "coverThumb": "https://p16-pu-sign-useast8.tiktokcdn-us.com/tos-useast8-avt-0068-tx2/b958c583880f1f875e178405d5bf6eb8~c5_100x100.jpeg?lk3s=a5d48078&nonce=6674&refresh_token=ede4d942805294adbcd54bdeb06fe1b3&x-expires=1726869600&x-signature=5qm77JkXTBFEcmAxQiss%2BJ56HZ0%3D&shp=a5d48078&shcp=b59d6b55",
+                "duration": 154,
+                "id": "7409089165164186411",
+                "original": true,
+                "playUrl": "https://v77.tiktokcdn.com/832811619b68601f6e4294c8f06c7522/66eb6727/video/tos/maliva/tos-maliva-ve-27dcd7c799-us/oAQtSNLobCLEDATetsYEfLIH7XGDMpgj5eoD2k/?a=1233&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=0&dr=0&er=2&cd=0%7C0%7C0%7C0&br=250&bt=125&ft=.NpOcInz7Thk5EArXq8Zmo&mime_type=audio_mpeg&qs=6&rc=ZTY6NmlpZDhkN2czNjM8M0BpMzlyOnU5cnI4dTMzZzU8NEA0LmM0MjMtNS0xLjUvYzBhYSNeX25jMmRjcjZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00090000&cc=13&download=true",
+                "title": "sonido original"
+            },
+            "officalItem": false,
+            "originalItem": false,
+            "playlistId": "",
+            "privateItem": false,
+            "secret": false,
+            "shareEnabled": true,
+            "showNotPass": false,
+            "stats": {
+                "collectCount": 4727,
+                "commentCount": 394,
+                "diggCount": 73500,
+                "playCount": 884000,
+                "shareCount": 3928
+            },
+            "statsV2": {
+                "collectCount": "4727",
+                "commentCount": "394",
+                "diggCount": "73516",
+                "playCount": "883997",
+                "repostCount": "0",
+                "shareCount": "3928"
+            },
+            "stitchDisplay": 0,
+            "stitchEnabled": true,
+            "textExtra": [
+                {
+                    "awemeId": "",
+                    "end": 55,
+                    "hashtagId": "153918",
+                    "hashtagName": "gatos",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 49,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 66,
+                    "hashtagId": "1604348221986817",
+                    "hashtagName": "videovira",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 56,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 73,
+                    "hashtagId": "19336",
+                    "hashtagName": "humor",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 67,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 84,
+                    "hashtagId": "233119",
+                    "hashtagName": "catvideos",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 74,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 95,
+                    "hashtagId": "837629",
+                    "hashtagName": "dogvideos",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 85,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 101,
+                    "hashtagId": "8466",
+                    "hashtagName": "drip",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 96,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 106,
+                    "hashtagId": "15675",
+                    "hashtagName": "fit",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 102,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 111,
+                    "hashtagId": "229207",
+                    "hashtagName": "fyp",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 107,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 119,
+                    "hashtagId": "42164",
+                    "hashtagName": "foryou",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 112,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 135,
+                    "hashtagId": "76389288",
+                    "hashtagName": "gatosgraciosos",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 120,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 142,
+                    "hashtagId": "71538786",
+                    "hashtagName": "vira\u0142",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 136,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 158,
+                    "hashtagId": "55920072",
+                    "hashtagName": "gatosdivertidos",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 142,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                },
+                {
+                    "awemeId": "",
+                    "end": 172,
+                    "hashtagId": "1628974567345157",
+                    "hashtagName": "gatosfelices",
+                    "isCommerce": false,
+                    "secUid": "",
+                    "start": 159,
+                    "subType": 0,
+                    "type": 1,
+                    "userId": "",
+                    "userUniqueId": ""
+                }
+            ],
+            "video": {
+                "VQScore": "59.4",
+                "bitrate": 1155659,
+                "bitrateInfo": [
+                    {
+                        "Bitrate": 1155659,
+                        "CodecType": "h264",
+                        "GearName": "normal_720_0",
+                        "MVMAF": "\"\"",
+                        "PlayAddr": {
+                            "DataSize": 22328346,
+                            "FileCs": "c:0-152559-c83d",
+                            "FileHash": "8e73a74c76ef972c477fbece909ac30a",
+                            "Uri": "v12044gd0000cr95ts7og65nlc4h71ag",
+                            "UrlKey": "v12044gd0000cr95ts7og65nlc4h71ag_h264_720p_1155659",
+                            "UrlList": [
+                                "https://v19-web-newkey.tiktokcdn.com/d95e6cbbb91e0fb5996c120af95d7582/66ebad77/video/tos/maliva/tos-maliva-ve-0068c799-us/oMuD7uDPFqCw0vkYlReqABnEVvIQISgfgmlh0E/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=2256&bt=1128&cs=0&ds=3&ft=piJEeMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=0&rc=M2U6aGg8ZGY3ZDo8aDQ8NkBpajRrZnE5cnY4dTMzZzczNEBfXjMvMDAuNmIxNWEwXl9gYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00090000",
+                                "https://v16-web-newkey.tiktokcdn.com/9d2161d72ba1005add90693b7ead4827/66ebad77/video/tos/maliva/tos-maliva-ve-0068c799-us/oMuD7uDPFqCw0vkYlReqABnEVvIQISgfgmlh0E/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=2256&bt=1128&cs=0&ds=3&ft=piJEeMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=0&rc=M2U6aGg8ZGY3ZDo8aDQ8NkBpajRrZnE5cnY4dTMzZzczNEBfXjMvMDAuNmIxNWEwXl9gYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00090000"
+                            ]
+                        },
+                        "QualityType": 10
+                    }
+                ],
+                "codecType": "h264",
+                "cover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007?lk3s=b59d6b55&x-expires=1726869600&x-signature=4Hz7%2FvQLINKaFoko26hVFhE%2Fka0%3D&shp=b59d6b55&shcp=-",
+                "definition": "720p",
+                "downloadAddr": "https://v16-web-newkey.tiktokcdn.com/9d2161d72ba1005add90693b7ead4827/66ebad77/video/tos/maliva/tos-maliva-ve-0068c799-us/oMuD7uDPFqCw0vkYlReqABnEVvIQISgfgmlh0E/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=2256&bt=1128&cs=0&ds=3&ft=piJEeMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=0&rc=M2U6aGg8ZGY3ZDo8aDQ8NkBpajRrZnE5cnY4dTMzZzczNEBfXjMvMDAuNmIxNWEwXl9gYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00090000",
+                "duration": 154,
+                "dynamicCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/810fd3f92a314b23b64c94ab8b3fc169_1725063007?lk3s=b59d6b55&x-expires=1726869600&x-signature=h6TLoe7hGAPi20vOj%2F74lCEChAg%3D&shp=b59d6b55&shcp=-",
+                "encodeUserTag": "",
+                "encodedType": "normal",
+                "format": "mp4",
+                "height": 1024,
+                "id": "7409089170519395626",
+                "originCover": "https://p16-sign.tiktokcdn-us.com/obj/tos-useast5-p-0068-tx/4dddeb9f6aff4432b32e7e701cd14fb7_1725063007?lk3s=b59d6b55&x-expires=1726869600&x-signature=d7I87NMRX5VkvcPhUCYAXlgqhiU%3D&shp=b59d6b55&shcp=-",
+                "playAddr": "https://v19-web-newkey.tiktokcdn.com/d95e6cbbb91e0fb5996c120af95d7582/66ebad77/video/tos/maliva/tos-maliva-ve-0068c799-us/oMuD7uDPFqCw0vkYlReqABnEVvIQISgfgmlh0E/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=2256&bt=1128&cs=0&ds=3&ft=piJEeMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=0&rc=M2U6aGg8ZGY3ZDo8aDQ8NkBpajRrZnE5cnY4dTMzZzczNEBfXjMvMDAuNmIxNWEwXl9gYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00090000",
+                "ratio": "720p",
+                "reflowCover": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-video-cover:480:480.jpeg?lk3s=b59d6b55&x-expires=1726869600&x-signature=5DgftgdCyan5eGuhOX%2F1g4s6FDI%3D&shp=b59d6b55&shcp=-",
+                "shareCover": [
+                    "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=b59d6b55&x-expires=1727301600&x-signature=tI7Fkbqgi%2FbH1Cq2NSQm3JeXvNs%3D&shp=b59d6b55&shcp=-",
+                    "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-video-share-card:630:630:20.jpeg?lk3s=b59d6b55&x-expires=1727301600&x-signature=5h2442ZqQBucjN%2F6Kp9gtZlKXnQ%3D&shp=b59d6b55&shcp=-"
+                ],
+                "size": 22328346,
+                "subtitleInfos": [
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "spa-ES",
+                        "LanguageID": "9",
+                        "Size": 7619,
+                        "Source": "ASR",
+                        "Url": "https://v16-webapp.tiktok.com/22f0751af8d69cb89a3e11ea00509fcd/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/ee3d158325f14a36b2ce3f2f6e0fc221/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "1:whisper_lid",
+                        "VideoSubtitleID": 355038341
+                    },
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "rus-RU",
+                        "LanguageID": "6",
+                        "Size": 11434,
+                        "Source": "MT",
+                        "Url": "https://v16-webapp.tiktok.com/b9e1deada8c34d1e6b323b807d954b75/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/51c1755a65e044bf9ef851462f55778d/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "4",
+                        "VideoSubtitleID": -823969137
+                    },
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "eng-US",
+                        "LanguageID": "2",
+                        "Size": 5506,
+                        "Source": "MT",
+                        "Url": "https://v16-webapp.tiktok.com/404ae538299799923ea0ce1fd4364f2e/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/7f721004b5054dc892497b7661f8b4d0/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "4",
+                        "VideoSubtitleID": 708343810
+                    },
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "ita-IT",
+                        "LanguageID": "26",
+                        "Size": 9809,
+                        "Source": "MT",
+                        "Url": "https://v16-webapp.tiktok.com/cf9b05f79c6e460fc46ff4dcf5365b39/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/2ed29eb732a248d1957836d344a3757e/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "4",
+                        "VideoSubtitleID": 1283283755
+                    },
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "por-PT",
+                        "LanguageID": "8",
+                        "Size": 9913,
+                        "Source": "MT",
+                        "Url": "https://v16-webapp.tiktok.com/8c7cf675dba7462d8dc306f8fe9b8a97/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/37d85ba2d3c54741a78f2600cc57a660/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "4",
+                        "VideoSubtitleID": -1373894266
+                    },
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "deu-DE",
+                        "LanguageID": "20",
+                        "Size": 6998,
+                        "Source": "MT",
+                        "Url": "https://v16-webapp.tiktok.com/b1970750dd173f6d857f5cfb557028a1/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/39d02218028c4046b98114e47edddd6b/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "4",
+                        "VideoSubtitleID": 1518291474
+                    },
+                    {
+                        "Format": "webvtt",
+                        "LanguageCodeName": "fra-FR",
+                        "LanguageID": "7",
+                        "Size": 6593,
+                        "Source": "MT",
+                        "Url": "https://v16-webapp.tiktok.com/9f3e966cf32a17cf103fcc3fcf44f22c/66ebad77/video/tos/maliva/tos-maliva-v-0068c799-us/3bdced821df145fb9c574ac13c49cae4/?a=1988&bti=NDU3ZjAwOg%3D%3D&ch=0&cr=3&dr=0&lr=tiktok_m&cd=0%7C0%7C1%7C&cv=1&br=15278&bt=7639&cs=0&ds=3&ft=4b~OyMvt8Zmo0HLze-4jV8M1upWrKsd.&mime_type=video_mp4&qs=13&rc=ajRrZnE5cnY4dTMzZzczNEBpajRrZnE5cnY4dTMzZzczNEBeNDFpMmQ0cTZgLS1kMS9zYSNeNDFpMmQ0cTZgLS1kMS9zcw%3D%3D&vvpl=1&l=20240918224723E5986519426FA509E244&btag=e00050000",
+                        "UrlExpire": 1726721399,
+                        "Version": "4",
+                        "VideoSubtitleID": -1565634036
+                    }
+                ],
+                "videoQuality": "normal",
+                "volumeInfo": {
+                    "Loudness": -22.9,
+                    "Peak": 0.4121
+                },
+                "width": 576,
+                "zoomCover": {
+                    "240": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-zoomcover:240:240.jpeg?lk3s=b59d6b55&x-expires=1726869600&x-signature=gbQl7gaGnkO6t6iQnk9p4Ulu5SU%3D&shp=b59d6b55&shcp=-",
+                    "480": "https://p19-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-zoomcover:480:480.jpeg?lk3s=b59d6b55&x-expires=1726869600&x-signature=mi%2BBjtEJzrZBCfd%2BlfiPzm68yCs%3D&shp=b59d6b55&shcp=-",
+                    "720": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-zoomcover:720:720.jpeg?lk3s=b59d6b55&x-expires=1726869600&x-signature=LCLOiSS2dzZyhJdh7LZ9bK%2Bi79g%3D&shp=b59d6b55&shcp=-",
+                    "960": "https://p16-sign.tiktokcdn-us.com/tos-useast5-p-0068-tx/72654daf079f48b18db55866d30ab985_1725063007~tplv-photomode-zoomcover:960:960.jpeg?lk3s=b59d6b55&x-expires=1726869600&x-signature=xzj6jC47H7ggyt0RuJ9w%2Fo8y8rE%3D&shp=b59d6b55&shcp=-"
+                }
+            },
+            "vl1": false
+        }
+    },
+    "log_pb": {
+        "impr_id": "20240918224723E5986519426FA509E244"
+    },
+    "message": "",
+    "shareMeta": {
+        "desc": "73.5K likes, 394 comments. \u201crecopilaci\u00f3n de gatos graciosos bruschismichis\ud83e\udd23\u201d",
+        "title": "TikTok \u00b7 bruschismichi"
+    },
+    "status": "success",
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": ""
+}

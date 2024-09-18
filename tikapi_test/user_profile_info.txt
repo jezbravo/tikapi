@@ -1,0 +1,63 @@
+{
+    "extra": {
+        "fatal_item_ids": [],
+        "logid": "20240918224722F5D9FF61EB9A801E53EB",
+        "now": 1726699642000
+    },
+    "log_pb": {
+        "impr_id": "20240918224722F5D9FF61EB9A801E53EB"
+    },
+    "message": "",
+    "shareMeta": {
+        "desc": "@ebravo_abs 0 Followers, 0 Following, 0 Likes - Watch awesome short videos created by ebravo_abs",
+        "title": "ebravo_abs on TikTok"
+    },
+    "status": "success",
+    "statusCode": 0,
+    "status_code": 0,
+    "status_msg": "",
+    "userInfo": {
+        "stats": {
+            "diggCount": 0,
+            "followerCount": 0,
+            "followingCount": 0,
+            "friendCount": 0,
+            "heart": 0,
+            "heartCount": 0,
+            "videoCount": 0
+        },
+        "user": {
+            "avatarLarger": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/62677f4e68df6d2e0237670e99ea5322~c5_1080x1080.jpeg?lk3s=a5d48078&nonce=59349&refresh_token=d38111c1a8bf4e75ad4e4aeefd27fae7&x-expires=1726869600&x-signature=t2OuFfwwMphTJCTGDdg%2FvDs%2BQKo%3D&shp=a5d48078&shcp=81f88b70",
+            "avatarMedium": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/62677f4e68df6d2e0237670e99ea5322~c5_720x720.jpeg?lk3s=a5d48078&nonce=24245&refresh_token=ec5f9c57ff69b901a87ce1c583b02dcb&x-expires=1726869600&x-signature=sar1wiWd2uZJg5kKIpf%2B97TcQrI%3D&shp=a5d48078&shcp=81f88b70",
+            "avatarThumb": "https://p16-sign-va.tiktokcdn.com/tos-maliva-avt-0068/62677f4e68df6d2e0237670e99ea5322~c5_100x100.jpeg?lk3s=a5d48078&nonce=60643&refresh_token=9593ad49f4892dc83fa1b2ec94aaed34&x-expires=1726869600&x-signature=wKFyzO%2FPBOwe9iuJXDnhY49GQnE%3D&shp=a5d48078&shcp=81f88b70",
+            "canExpPlaylist": true,
+            "commentSetting": 0,
+            "commerceUserInfo": {
+                "commerceUser": false
+            },
+            "downloadSetting": 0,
+            "duetSetting": 0,
+            "followingVisibility": 1,
+            "ftc": false,
+            "id": "7416103808708903942",
+            "isADVirtual": false,
+            "isEmbedBanned": false,
+            "isUnderAge18": false,
+            "nickname": "ebravo_abs",
+            "openFavorite": false,
+            "privateAccount": false,
+            "profileEmbedPermission": 1,
+            "profileTab": {
+                "showPlayListTab": false
+            },
+            "relation": 0,
+            "secUid": "MS4wLjABAAAAHl3oApD5HHat59PBn5Kr7lYIu46M0SJ0Di-ARRvErIR0bQKSzTvGeb4QyKgMO3vs",
+            "secret": false,
+            "signature": "",
+            "stitchSetting": 0,
+            "ttSeller": false,
+            "uniqueId": "ebravo_abs",
+            "verified": false
+        }
+    }
+}
